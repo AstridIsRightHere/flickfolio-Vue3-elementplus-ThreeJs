@@ -1,4 +1,4 @@
-# flickfolio
+# 🎬 flickfolio: A simple end-of-term project for my freshman year! 🌟 A blend of Vue3, Element Plus, and Three.js.
 
 This template should help get you started developing with Vue 3 in Vite.
 
