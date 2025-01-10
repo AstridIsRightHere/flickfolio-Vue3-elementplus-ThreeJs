@@ -1,0 +1,19 @@
+@import './base.css';
+
+.router-link-active {
+  text-decoration: none
+}
+
+a {
+  text-decoration: none
+}
+
+/* 去除滚动条 */
+::-webkit-scrollbar {
+  width: 0 !important;
+}
+
+::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0;
+}
